@@ -46,6 +46,6 @@ Tendo as configurações feitas corretamente é só fazer o build e rodar o proj
 
 ## ✒️ Autores
 
--   **Equipe Unip** - _Desenvolvimento e construção do projeto_ - [Alan Douglas](https://github.com/AlanDouglasASouza)
+-   **Equipe Unip** - _Desenvolvimento e construção do projeto_ - [Equipe](https://github.com/AlanDouglasASouza)
 
 ## 🎁 Expressões de gratidão
